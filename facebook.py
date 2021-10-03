@@ -4,6 +4,7 @@ import colorama
 from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions
+os.system("clear")
 number = input(Fore.RED + "ID : ")
 time.sleep(1)
 print("")

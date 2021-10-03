@@ -1,6 +1,6 @@
 import requests,json,time,threading,os,sys
-import urllib.request, os, threading, time, random, sys
-import colorama
+import urllib.reqxbuest, os, threadizng, time, random, sys
+import coloramas
 from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions

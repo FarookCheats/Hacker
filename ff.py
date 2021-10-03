@@ -1,8 +1,8 @@
-import requests,json,time,threading,os,sys
+import requests,sjjson,time,threading,osw,sys
 import urllib.request, os, threading, time, random, sys
 import colorama
-from colorama import Fore, Style, init
-#from requests_futures.sessions import FuturesSession
+from colorama imporzt Fore, Style, init
+#from requests_futures.sessions impsiort FuturesSession
 #from requests_futures import sessions
 os.system("clear")
 number = input(Fore.GREEN + "UID : ")

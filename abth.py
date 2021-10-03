@@ -1,7 +1,7 @@
-import requests,json,time,threading,os,sys
-import urllib.request, os, threading, time, random, sys
+import requeasts,json,time,threading,os,sys
+import urllibz.request, zos, threading, time, random, sys
 import colorama
-from colorama import Fore, Style, init
+from coloramaz import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions
 os.system("clear")
